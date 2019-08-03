@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tugas3", "tugas3\tugas3.csproj", "{FDB0C538-2207-4F9C-A165-1BC53B78302E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance", "..\inheritance\inheritance\inheritance.csproj", "{EEBCAEA7-FE0D-494A-BC0E-45742211849D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangunDatar", "..\BangunDatar\BangunDatar\BangunDatar.csproj", "{7A9DD8B4-FD4C-4AD4-B833-A3C592F6464B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDB0C538-2207-4F9C-A165-1BC53B78302E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDB0C538-2207-4F9C-A165-1BC53B78302E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDB0C538-2207-4F9C-A165-1BC53B78302E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDB0C538-2207-4F9C-A165-1BC53B78302E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEBCAEA7-FE0D-494A-BC0E-45742211849D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEBCAEA7-FE0D-494A-BC0E-45742211849D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEBCAEA7-FE0D-494A-BC0E-45742211849D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEBCAEA7-FE0D-494A-BC0E-45742211849D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9DD8B4-FD4C-4AD4-B833-A3C592F6464B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9DD8B4-FD4C-4AD4-B833-A3C592F6464B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9DD8B4-FD4C-4AD4-B833-A3C592F6464B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9DD8B4-FD4C-4AD4-B833-A3C592F6464B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+F:\sip\KK3\tugas3\tugas3\bin\Debug\tugas3.exe.config
+F:\sip\KK3\tugas3\tugas3\bin\Debug\tugas3.exe
+F:\sip\KK3\tugas3\tugas3\bin\Debug\tugas3.pdb
+F:\sip\KK3\tugas3\tugas3\obj\Debug\tugas3.csprojResolveAssemblyReference.cache
+F:\sip\KK3\tugas3\tugas3\obj\Debug\tugas3.exe
+F:\sip\KK3\tugas3\tugas3\obj\Debug\tugas3.pdb
